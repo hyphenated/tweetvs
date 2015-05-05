@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: tweetvs
+        psr4_prefix: tweetvs
+        src_path: app
